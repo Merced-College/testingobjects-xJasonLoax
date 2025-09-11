@@ -28,7 +28,7 @@ public class ObjectTester {
         System.out.println(bird2);
         
         // Print just the name of bird2
-        System.out.println(dog2.getName());
-        
+        System.out.println(bird2.getName());
+
     } // end main
 } // end class
